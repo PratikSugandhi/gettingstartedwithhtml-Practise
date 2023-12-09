@@ -1,0 +1,21 @@
+Q.4 Write a short note on Tag and element with an example?
+Ans:HTML uses a system of "tags" to define the structure and layout of web pages. Tags are the building blocks ofHTML documents and consist of angle brackets enclosing specific keywords. These tags provide instructionsto web browsers on how to display the content.An HTML tag is composed of an opening tag and, in some cases, a closing tag. The opening tag starts withthe less-than symbol (<), followed by the tag name, and ends with a greater-than symbol (>). The closing
+tag is similar, but it also includes a forward slash (/) before the tag name.
+				For example:
+					Opening tag: <tagname>
+					Closing tag: </tagname>
+
+		HTML elements are the building blocks of an HTML document. HTML elements consist of a start tag, an endtag (if applicable), and content in between the tags. The start tag defines the beginning of an HTML element, and the end tag defines the end of an HTML element.Each HTML element has a specific structure that defines its behaviour and appearance on a web page.Here is a breakdown of the anatomy of an HTML element:
+1. Opening tag - This is the opening tag that defines the beginning of an HTML element. It is enclosed in
+angle brackets (< >) 
+2. Content - This is the text or other data that appears between the start and end tags of an HTML element. Some HTML elements do not require content and are self-closing
+3.  Closing tag - This is the closing tag that defines the end of an HTML element. It is enclosed in angle brackets with a forward slash (/) before the element name.
+
+				for example:
+				<h1>he is genius</h1>
+				opening tag : <h1>
+				content tag : he is genius
+				closing tag : </h1>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
